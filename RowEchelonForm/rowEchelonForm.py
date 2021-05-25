@@ -15,10 +15,10 @@ def make_UTF(mtrx):
 			row[j] /= deli
 
 		#null col
-		for j in range(i + 1, n):
-			mul = mtrx[j][i]
-			for k in range(m):
-				mtrx[j][k] -= mtrx[i][k] * mul
+		for k in range(i + 1, n):
+			mul = mtrx[k][i]  #the val under deli
+			for j in range(m):
+				mtrx[k][j] -= mtrx[i][j] * mul
 
 	return mtrx
 
