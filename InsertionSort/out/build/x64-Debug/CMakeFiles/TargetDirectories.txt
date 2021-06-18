@@ -1,0 +1,5 @@
+C:/Users/tzvet/my_stuff/GitHub/algo-nbu/InsertionSort/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/tzvet/my_stuff/GitHub/algo-nbu/InsertionSort/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tzvet/my_stuff/GitHub/algo-nbu/InsertionSort/out/build/x64-Debug/InsertionSort/CMakeFiles/InsertionSort.dir
+C:/Users/tzvet/my_stuff/GitHub/algo-nbu/InsertionSort/out/build/x64-Debug/InsertionSort/CMakeFiles/edit_cache.dir
+C:/Users/tzvet/my_stuff/GitHub/algo-nbu/InsertionSort/out/build/x64-Debug/InsertionSort/CMakeFiles/rebuild_cache.dir
